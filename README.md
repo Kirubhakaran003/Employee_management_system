@@ -1,7 +1,6 @@
-# Employee_management_system
 # Employee Management System
 
-The Employee Management System is a web application designed to manage employee profiles, attendance tracking, payroll processing, performance evaluation, role-based access control, reporting, and promotion tracking. The system is built using Spring Boot for the backend, MySQL as the database, React.js for the frontend, and Bootstrap for styling.
+The Employee Management System is a web application designed to manage employee profiles, attendance tracking, payroll processing, performance evaluation, role-based access control, reporting, and promotion tracking. The system is built using Spring Boot for the backend and MySQL as the database.
 
 ## Features
 
